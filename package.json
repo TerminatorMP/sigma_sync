@@ -1,0 +1,16 @@
+{
+  "name": "sigma-sync",
+  "version": "1.0.0",
+  "description": "Forked from kyle8998/Vynchronize",
+  "main": "server.js",
+  "scripts": {
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "8.1.0",
+    "express": "*",
+    "lodash": "^4.17.13",
+    "socket.io": "*",
+    "ws": ">=3.3.1"
+  }
+}
