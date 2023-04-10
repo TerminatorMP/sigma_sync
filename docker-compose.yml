@@ -2,10 +2,17 @@ version: "3.9"
 services:
   sigma_sync:
     container_name: sigma_sync
+    restart: unless-stopped
     build:
       context: .
       dockerfile: Dockerfile
-    ports:
-      - 3000:3000
+    networks:
+      - sigma_shared_network
+#    ports:
+#      - 12002:2002
     env_file:
       .env
+networks:
+  sigma_shared_network:
+    external: true
+    name: sigma_shared_network

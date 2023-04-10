@@ -19,7 +19,7 @@ var given_room = ""
 
 app.use(express.static('public'));
 
-server.listen(process.env.PORT || 3000);
+server.listen(process.env.PORT || 2002);
 console.log('Server Started . . .');
 
 
