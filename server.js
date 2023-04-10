@@ -33,7 +33,7 @@ console.log('Server Started . . .');
 
 app.get('/:room', function(req, res) {
     given_room = req.params.room
-    res.sendFile(__dirname + '/index.html');
+    res.sendFile(__dirname + '/public/index.html');
 });
 
 
