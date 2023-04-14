@@ -102,7 +102,7 @@ io.sockets.on('connection', function(socket) {
         var room = io.sockets.adapter.rooms['room-' + roomnum]
 
         // If you are not the last socket to leave
-        if (room.users.length > 1) {
+        if (room?.users?.length > 1) {
             // If you are the host
             if (socket.id == room.host) {
                 // Reassign
@@ -114,7 +114,7 @@ io.sockets.on('connection', function(socket) {
         }
         // Remove from users list
         // If socket username is found
-        if (room.users.indexOf(socket.username) != -1) {
+        if (room !== undefined && room.users.indexOf(socket.username) !== -1) {
             room.users.splice((room.users.indexOf(socket.username)), 1);
             updateRoomUsers(roomnum);
         }

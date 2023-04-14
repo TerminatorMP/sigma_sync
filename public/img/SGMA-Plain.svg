@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="207.13103mm"
+   height="207.13103mm"
+   viewBox="0 0 207.13103 207.13103"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="SGMA-Plain.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="424.28516"
+     inkscape:cy="328.57199"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.8037191,-46.112948)">
+    <path
+       id="path18"
+       style="fill:#00ff00;stroke-width:0.999999"
+       d="M 417.14258,174.28516 A 391.42854,391.42854 0 0 0 25.714844,565.71484 391.42854,391.42854 0 0 0 417.14258,957.14258 391.42854,391.42854 0 0 0 808.57227,565.71484 391.42854,391.42854 0 0 0 417.14258,174.28516 Z m -0.4336,124.28711 a 267.14283,267.14283 0 0 1 0.4336,0 A 267.14283,267.14283 0 0 1 684.28516,565.71484 267.14283,267.14283 0 0 1 417.14258,832.85742 267.14283,267.14283 0 0 1 150,565.71484 267.14283,267.14283 0 0 1 416.70898,298.57227 Z"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#00ff00;stroke-width:0.264583"
+       x="78.200752"
+       y="187.55716"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         x="78.200752"
+         y="187.55716"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.833px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#00ff00">Σ</tspan></text>
+  </g>
+</svg>
